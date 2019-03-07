@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project> 
+  <apis> 
+    <api>
+      <apiName>BaseHandle</apiName>
+      <apiPath>com.http.handle</apiPath>
+    </api>
+  </apis> 
+</project>
